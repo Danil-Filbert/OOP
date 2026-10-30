@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1723903223 source:d:\tpu\7 семестр\ООП в ПСС\labs\lab1\main.cpp
+	<iostream>
+	"TMatr.h"
+
+1723907179 source:d:\tpu\7 семестр\ООП в ПСС\labs\lab1\tmatr.cpp
+	<iostream>
+	"TMatr.h"
+
+1723907179 d:\tpu\7 семестр\ООП в ПСС\labs\lab1\tmatr.h
+
