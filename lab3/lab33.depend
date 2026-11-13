@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1705039257 source:d:\tpu\7 семестр\ООП в ПСС\labs\lab33\main.cpp
+	<iostream>
+	"TMatr.h"
+	"TMatr.cpp"
+	"TMatr_int.h"
+	"TMatr_int.cpp"
+	"TMatr_part.h"
+	"TMatr_part.cpp"
+	"mul_float_sp.cpp"
+
+1704961806 d:\tpu\7 семестр\ООП в ПСС\labs\lab33\tmatr.h
+	<iostream>
+
+1705039212 d:\tpu\7 семестр\ООП в ПСС\labs\lab33\tmatr.cpp
+	<iostream>
+	"TMatr.h"
+
+1705039212 source:d:\tpu\7 семестр\ООП в ПСС\labs\lab33\tmatr.cpp
+	<iostream>
+	"TMatr.h"
+
+1704770588 d:\tpu\7 семестр\ООП в ПСС\labs\lab33\tmatr_int.h
+	"TMatr.h"
+
+1705039136 d:\tpu\7 семестр\ООП в ПСС\labs\lab33\tmatr_int.cpp
+	"TMatr_int.h"
+
+1704295639 d:\tpu\7 семестр\ООП в ПСС\labs\lab33\tmatr_part.h
+	"TMatr.h"
+
+1705036848 d:\tpu\7 семестр\ООП в ПСС\labs\lab33\tmatr_part.cpp
+	"TMatr_part.h"
+
+1705039467 source:d:\tpu\7 семестр\ООП в ПСС\labs\lab33\tmatr_part.cpp
+	"TMatr_part.h"
+
+1704961496 source:d:\tpu\7 семестр\ООП в ПСС\labs\lab33\mul_float_sp.cpp
+	"TMatr.h"
+
+1705039134 d:\tpu\7 семестр\ООП в ПСС\labs\lab33\mul_float_sp.cpp
+	"TMatr.h"
+
